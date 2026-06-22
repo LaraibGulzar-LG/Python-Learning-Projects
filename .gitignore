@@ -1,0 +1,11 @@
+# Python ki temporary files (Inki GitHub par zaroorat nahi hoti)
+__pycache__/
+*.pyc
+
+# Virtual Environments (Jo heavy folders hote hain)
+venv/
+.venv/
+env/
+
+# Khufiya passwords ya keys ki files
+.env
