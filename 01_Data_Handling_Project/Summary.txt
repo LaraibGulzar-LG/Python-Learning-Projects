@@ -1,0 +1,8 @@
+| Action          | Format       | Tool           |
+| --------------- | ------------ | -------------- |
+| Read CSV (list) | rows as list | csv.reader     |
+| Read CSV (dict) | key-value    | csv.DictReader |
+| Read JSON       | dict/list    | json.load      |
+| Write CSV(list) | file output  | csv.writer     |
+| Write JSON      | file output  | json.dump      |
+| Write CSV(dict) | file output  | csv.DictWriter |
