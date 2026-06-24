@@ -19,6 +19,7 @@
 - python json_read.py
 - python csv_write.py
 - python json_write.py
+- python csv_write_dict.py
 
 ## All Operation Run
 - python main.py
