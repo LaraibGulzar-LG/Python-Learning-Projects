@@ -69,4 +69,5 @@ except ValueError as e:
 else:
     print("Tumhari Age is :" , Age_batao)
 
-
+finally:
+    print("dance")
